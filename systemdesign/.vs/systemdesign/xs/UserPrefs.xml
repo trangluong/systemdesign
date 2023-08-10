@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{EBC51471-537C-4E88-BAE5-B5672BA56C56}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="xUnitTest/UnitTest1.cs">
+    <Files>
+      <File FileName="xUnitTest/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="systemdesign/Controllers/WeatherForecastController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="systemdesign" expanded="True" selected="True">
+            <Node name="systemdesign" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="xUnitTest" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.xUnitTest FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.systemdesign PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

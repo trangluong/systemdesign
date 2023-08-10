@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "k6zPQV8Detxb9L0jf9VBVVeipJ35O2jUL9ulttVJcxsmrUlS2s+Bs/MGhiSwyzpr3elNYIldfy5hhq7rUBxohw==",
+  "success": true,
+  "projectFilePath": "/Users/trangluong/Documents/Source codes/SystemDesign/systemdesign/systemdesign/systemdesign.csproj",
+  "expectedPackageFiles": [
+    "/Users/trangluong/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/Users/trangluong/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/trangluong/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/trangluong/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/trangluong/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/trangluong/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/trangluong/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
